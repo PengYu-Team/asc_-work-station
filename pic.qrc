@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>camera.png</file>
+        <file>Pic/down.png</file>
+        <file>Pic/up.png</file>
+        <file>Pic/send.png</file>
+        <file>Pic/Send message.png</file>
+        <file>Pic/test.jpg</file>
+        <file>Pic/1.jpeg</file>
+        <file>Pic/2.jpeg</file>
+        <file>Pic/3.jpeg</file>
+        <file>Pic/4.jpeg</file>
+    </qresource>
+</RCC>
